@@ -2,11 +2,11 @@
 <h1 align="center">Hi 👋, I'm Tehzeeb Kousar</h1>
 
 <h3 align="center">
-💻 Web Developer | WordPress Developer | Flutter Learner | Cybersecurity Enthusiast
+💻 Web Developer | WordPress Developer | Cybersecurity Enthusiast
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Building+clean+and+responsive+web+experiences;Exploring+Flutter+%26+React+development;Passionate+about+Cybersecurity+%F0%9F%94%90;Always+learning+new+technologies+%F0%9F%8C%B1" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Building+clean+and+responsive+web+experiences;Exploring+%26+React+development;Passionate+about+Cybersecurity+%F0%9F%94%90;Always+learning+new+technologies+%F0%9F%8C%B1" />
 </p>
 
 ---
