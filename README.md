@@ -1,7 +1,5 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00B8A9&height=200&section=header&text=Hi%20There,%20I'm%20Tehzeeb%20Kousar%20👋&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20•%20WordPress%20Developer%20•%20Cybersecurity%20Enthusiast&descAlignY=58&descSize=14&stroke=00B8A9&strokeWidth=0&theme=_theme&customColorList=0" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00B8A9&height=180&section=header&text=Hi%20There,%20I'm%20Tehzeeb%20Kousar%20👋&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Web%20Developer%20•%20WordPress%20Specialist%20•%20Cybersecurity%20Enthusiast&descAlignY=58&descSize=14&stroke=00B8A9&strokeWidth=0&theme=_theme&customColorList=0" width="100%"/>
 </div>
 
 ## 🌸 About Me
@@ -54,7 +52,6 @@
 | 🐍 **Python** | Automation & backend logic |
 | 🔐 **Cybersecurity** | Secure coding practices |
 | 📱 **Flutter** | Cross-platform mobile apps |
-| 🧠 **C++** | Data structures & problem solving |
 
 <br/>
 
@@ -81,8 +78,8 @@
 
 <div align="center">
 
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> &nbsp;
-<a href="#"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> &nbsp;
+<a href="https://www.linkedin.com/in/tehzeeb-kousar/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> &nbsp;
+<a href="mailto:tehzeebkousarr@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> &nbsp;
 <a href="https://github.com/tehzeeb-kousarr"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </div>
