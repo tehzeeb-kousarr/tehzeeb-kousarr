@@ -69,8 +69,8 @@ Flutter | Dart | Firebase (Auth & Basics)
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=tehzeeb-kousarr&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=tehzeeb-kousarr&theme=tokyonight" width="48%"/>
 </p>
 
 ---
