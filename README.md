@@ -59,10 +59,11 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=tehzeeb-kousarr&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00B8A9&icon_color=00B8A9&include_all_commits=true&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tehzeeb-kousarr&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00B8A9"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=tehzeeb-kousarr&show_icons=true&theme=radical"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tehzeeb-kousarr&theme=radical&hide_border=true&background=0D1117&ring=00B8A9&fire=00B8A9&currStreakLabel=00B8A9"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tehzeeb-kousarr&layout=compact&theme=radical"/>
+
+<img width="700" src="https://streak-stats.demolab.com?user=tehzeeb-kousarr&theme=radical"/>
 
 </div>
 
